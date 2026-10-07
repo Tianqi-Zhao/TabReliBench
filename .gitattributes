@@ -1,0 +1,2 @@
+# Preserve empty final columns in tab-separated data.
+*.tsv whitespace=-blank-at-eol
