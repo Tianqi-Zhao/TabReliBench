@@ -1,0 +1,210 @@
+{
+  "description": "Official source URLs, retrieval times and SHA-256 digests of retrieved source bytes. PyPI sources are release metadata, GitHub sources are license files or trees, and Hugging Face sources are model cards or licenses.",
+  "sources": {
+    "tabpfn_code": {
+      "url": "https://raw.githubusercontent.com/PriorLabs/TabPFN/15f5e6b2b629b905879b9be907261416f20d0df5/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabicl_code": {
+      "url": "https://raw.githubusercontent.com/soda-inria/tabicl/main/LICENSE",
+      "sha256": "c959a1db8bc4b2f41c315a9b077c822372a4a84e1a83636bdb962715aaae6874",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabdpt_code": {
+      "url": "https://raw.githubusercontent.com/layer6ai-labs/TabDPT-inference/93670551adba28b186354fab9a1584c56c34aa76/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabfm_code": {
+      "url": "https://raw.githubusercontent.com/google-research/tabfm/fbb665569425fd2f490c6576b3af967876fe11ff/LICENSE",
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "causilo_code": {
+      "url": "https://raw.githubusercontent.com/nums-ai/causilo/4d26d497de28734db52c6bfc2ea949c12cc17308/LICENSE",
+      "sha256": "6d0ab8719b5fe481e93c8c20850e386c04bb966413c63e4fe8f8f76b2f2bd324",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pcp_tree": {
+      "url": "https://api.github.com/repos/yaozhang24/pcp/git/trees/7a4b33ee852b95bd65f8fe5486b4d7e6ded24bad?recursive=1",
+      "sha256": "4e3b7294c87eac94e58aea079d7da89a34a890c014d44edd98005b18938bf970",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabpfn_2_5": {
+      "url": "https://huggingface.co/Prior-Labs/tabpfn_2_5/raw/main/LICENSE",
+      "sha256": "ac1d23429431a622b91c73db741868e69a0140d401ebb20b9e869a835e036e28",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabpfn_3": {
+      "url": "https://huggingface.co/Prior-Labs/tabpfn_3/raw/main/LICENSE",
+      "sha256": "dca491280b68f471312a15d54add7b8e724adf19fb0e113544b1ef91e060f5d5",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabpfn_3_5": {
+      "url": "https://huggingface.co/Prior-Labs/tabpfn_3_5/raw/main/LICENSE",
+      "sha256": "9570fdd687bb76ed45499412ad57d6ba949848e6d731f1242572bb57f2f73ae1",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_pytabkit/1.7.3": {
+      "url": "https://pypi.org/pypi/pytabkit/1.7.3/json",
+      "sha256": "43844cb2825255204426a297d8ef9352ddf5f1151498f78ed4058979c26b80ce",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_bartz/0.12.0": {
+      "url": "https://pypi.org/pypi/bartz/0.12.0/json",
+      "sha256": "38c0f29ace268b420374725320f2cdab18724a00ea279e6b647076f13acf886f",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_xgboost/3.2.0": {
+      "url": "https://pypi.org/pypi/xgboost/3.2.0/json",
+      "sha256": "327df3ac2e93416efdf49a35fff5e5a980c4c108e3f617bed82feecfb5d6eeb5",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_tabpfn/8.0.2": {
+      "url": "https://pypi.org/pypi/tabpfn/8.0.2/json",
+      "sha256": "481134795dddb5d9152fcadef4c1a91b76eeb79407e05e290be306026a5abbb0",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_tabicl/2.1.0": {
+      "url": "https://pypi.org/pypi/tabicl/2.1.0/json",
+      "sha256": "bffca8aef7684577d78960ac988605bf7df285efc1d0ef33511f16e90265c0b8",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_tabdpt/1.1.13": {
+      "url": "https://pypi.org/pypi/tabdpt/1.1.13/json",
+      "sha256": "dbd6290bb71771362f00339a59f12e92c95977135b0d5c07a3ecfe7b145bd2bb",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_openml/0.15.1": {
+      "url": "https://pypi.org/pypi/openml/0.15.1/json",
+      "sha256": "260bb22435a613b818cfc3bac16f8d3b57bdc4d5b07f9023cb2a476c9376d0c6",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabicl_weights": {
+      "url": "https://huggingface.co/jingang/TabICL/raw/main/README.md",
+      "sha256": "af2a149343cb949f10cca93212d61d67c5be9f7305fbb9c3d7ca1412267a09fd",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "causilo_weights": {
+      "url": "https://huggingface.co/nums-ai/causilo/raw/94f2bd91db0737d4da59f347910662905ecb5a09/LICENSE",
+      "sha256": "7de09258938c40d8563b354229098fb5a13916b788e75fba0fa471a073ebea7b",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabfm_weights": {
+      "url": "https://huggingface.co/google/tabfm-1.0.0-pytorch/raw/main/LICENSE",
+      "sha256": "26d8c4748b755fd202668ca89471b1847f2e0e0d9a88707642b1a3a1d2edb276",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_numpy/2.3.5": {
+      "url": "https://pypi.org/pypi/numpy/2.3.5/json",
+      "sha256": "26add04c77407fa4570d2cd4fe6dc966826b630f26822b9299957ae5fb816667",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_pandas/2.2.3": {
+      "url": "https://pypi.org/pypi/pandas/2.2.3/json",
+      "sha256": "ee09c77ac2c2d9a81da5be96e6779874602a9fa7087806dc7f9785865d14bb63",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_scipy/1.16.3": {
+      "url": "https://pypi.org/pypi/scipy/1.16.3/json",
+      "sha256": "3eb666307d3ad8ed2641a7d714a04520922cdcafd3fe3fcfd5d3e4b6ce2c316f",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_scikit-learn/1.7.2": {
+      "url": "https://pypi.org/pypi/scikit-learn/1.7.2/json",
+      "sha256": "2828c02475011ebe821076d9dea99b1dc9ebbb9e2f96f6cbae1be5284c43948c",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_joblib/1.5.3": {
+      "url": "https://pypi.org/pypi/joblib/1.5.3/json",
+      "sha256": "9853f57588cbeec2d95979c3ff497e1b425ae07956868780729263000c573ea9",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_threadpoolctl/3.6.0": {
+      "url": "https://pypi.org/pypi/threadpoolctl/3.6.0/json",
+      "sha256": "5ee046d3f7dd06270e19794d00ad231238fb32e5f54866e6285d7d0d3d5fc3c9",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_statsmodels/0.14.6": {
+      "url": "https://pypi.org/pypi/statsmodels/0.14.6/json",
+      "sha256": "729c3f4fc0fa684c5352830b040ac536893d0bf4ac41d13e09f974a5eb350bcb",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_patsy/1.0.2": {
+      "url": "https://pypi.org/pypi/patsy/1.0.2/json",
+      "sha256": "07c50e23800e2ccf5d7a1ce92fd7a9a908786a3f1868024e24219c7cf79d20ca",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_imodels/2.0.4": {
+      "url": "https://pypi.org/pypi/imodels/2.0.4/json",
+      "sha256": "089fa965f816900892aa5dfe9c79bc8e50597573e6bc7f78996d3ac8c7689070",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_tabpfn-common-utils/0.2.18": {
+      "url": "https://pypi.org/pypi/tabpfn-common-utils/0.2.18/json",
+      "sha256": "636ed56033f7426896acb97a7846a153436df5b5d45b58f479ecc9ffee1525b7",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_huggingface_hub/0.36.2": {
+      "url": "https://pypi.org/pypi/huggingface_hub/0.36.2/json",
+      "sha256": "994830dd3eeeb6590b07caac00b60f8a238fbedd1f0867daf5ba735c8a7e23bf",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_safetensors/0.7.0": {
+      "url": "https://pypi.org/pypi/safetensors/0.7.0/json",
+      "sha256": "cb0a55ffb97d7590e21a5caabe6d2faa4fff4876ebe7defb31561ab318a3f9b9",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_einops/0.8.2": {
+      "url": "https://pypi.org/pypi/einops/0.8.2/json",
+      "sha256": "3b2b9bc8b566fbba8d96f1a5d75a5abe4aaadf144fe00d472edc83d90c6a5f4e",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_transformers/4.57.6": {
+      "url": "https://pypi.org/pypi/transformers/4.57.6/json",
+      "sha256": "cf731225577bbef27afac43f177794146c70b088d3e60af1fe9d71c0a0fcc37e",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "pypi_lightgbm/4.6.0": {
+      "url": "https://pypi.org/pypi/lightgbm/4.6.0/json",
+      "sha256": "732c0007d4c8039d2c2d8a249011d78e3dd5c8c07f288d8d96b1cede90cafdfa",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "limix_tree": {
+      "url": "https://api.github.com/repos/limix-ldm-ai/LimiX/git/trees/516bf396333feb3198cf7aff8a6c10421f218e24?recursive=1",
+      "sha256": "182bc609b16514026e6589b489000a3d344eeee8767cf5f71f6365d9f5d2c063",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabpfn_v2_card": {
+      "url": "https://huggingface.co/Prior-Labs/TabPFN-v2-clf/raw/main/README.md",
+      "sha256": "269434f5c1db993269af9218ef0a50016da811ae5b323eea73e06ac9e8fef3e9",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "limix_weights": {
+      "url": "https://huggingface.co/stable-ai/LimiX-2/raw/main/LICENSE",
+      "sha256": "beaceacc2c15826b46375e647fdab6b7687eb34ee71867617b7221a14710c217",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "tabdpt_weights": {
+      "url": "https://huggingface.co/Layer6/TabDPT/raw/main/README.md",
+      "sha256": "34ebcc52a3c3d4799f2fa5796267ca4469f4c4db19c3fdbb6a55755a409b905a",
+      "checked_at_utc": "2026-10-07T08:06:31.051856+00:00"
+    },
+    "limix_code": {
+      "url": "https://raw.githubusercontent.com/limix-ldm-ai/LimiX/516bf396333feb3198cf7aff8a6c10421f218e24/LICENSE.txt",
+      "sha256": "c1eaed077f5978dfdcabb19576600490b3772e4f3f0d196ebcec8148de791810",
+      "checked_at_utc": "2026-10-07T08:07:47.828916+00:00"
+    },
+    "tabpfn_v2_reg_card": {
+      "url": "https://huggingface.co/Prior-Labs/TabPFN-v2-reg/raw/main/README.md",
+      "sha256": "dba926cc687d0e50392c2dce6e6081ee67adb5c3f17d4f9af6f5e29bd8b424dc",
+      "checked_at_utc": "2026-10-07T08:07:48.197660+00:00"
+    },
+    "tabpfn_v2_license": {
+      "url": "https://raw.githubusercontent.com/PriorLabs/TabPFN/49394b053a6759cfe68e90c21a2d51c31b396768/LICENSE",
+      "sha256": "08b1851b4b6136b5fb0cb124d3258e0d91e3e1623f1be5904b77e4d270d112d8",
+      "checked_at_utc": "2026-10-07T08:07:48.619418+00:00"
+    }
+  }
+}

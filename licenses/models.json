@@ -1,0 +1,136 @@
+{
+  "checked_on": "2026-10-07",
+  "models": [
+    {
+      "model": "TabPFNv2",
+      "software_version_or_commit": "tabpfn==8.0.2",
+      "code_license": "Prior Labs License v1.2 (Apache 2.0 with additional provision)",
+      "code_source": "https://pypi.org/pypi/tabpfn/8.0.2/json",
+      "checkpoint_license": "Prior Labs License (Apache 2.0 with additional attribution provision)",
+      "checkpoint_source": "https://raw.githubusercontent.com/PriorLabs/TabPFN/49394b053a6759cfe68e90c21a2d51c31b396768/LICENSE",
+      "notes": "Code license is from the installed package version; model terms apply separately. v2 model cards link the historical license recorded here."
+    },
+    {
+      "model": "TabPFNv2.5",
+      "software_version_or_commit": "tabpfn==8.0.2",
+      "code_license": "Prior Labs License v1.2 (Apache 2.0 with additional provision)",
+      "code_source": "https://pypi.org/pypi/tabpfn/8.0.2/json",
+      "checkpoint_license": "TABPFN-2.5 License v1.1 (non-commercial, non-production)",
+      "checkpoint_source": "https://huggingface.co/Prior-Labs/tabpfn_2_5/raw/main/LICENSE",
+      "notes": "Code license is from the installed package version; the model-specific license is recorded separately."
+    },
+    {
+      "model": "TabPFNv3",
+      "software_version_or_commit": "tabpfn==8.0.2",
+      "code_license": "Prior Labs License v1.2 (Apache 2.0 with additional provision)",
+      "code_source": "https://pypi.org/pypi/tabpfn/8.0.2/json",
+      "checkpoint_license": "TABPFN-3 License v1.0 (non-commercial, non-production)",
+      "checkpoint_source": "https://huggingface.co/Prior-Labs/tabpfn_3/raw/main/LICENSE",
+      "notes": "Code license is from the installed package version; the model-specific license is recorded separately."
+    },
+    {
+      "model": "TabPFNv3.5",
+      "software_version_or_commit": "9.1.0 / 15f5e6b2b629b905879b9be907261416f20d0df5",
+      "code_license": "Apache-2.0",
+      "code_source": "https://raw.githubusercontent.com/PriorLabs/TabPFN/15f5e6b2b629b905879b9be907261416f20d0df5/LICENSE",
+      "checkpoint_license": "TABPFN-3.5 License v1.0 (non-commercial, non-production)",
+      "checkpoint_source": "https://huggingface.co/Prior-Labs/tabpfn_3_5/raw/main/LICENSE",
+      "notes": "Code license is from the exact README-pinned Git commit; model-specific terms remain separate."
+    },
+    {
+      "model": "TabICLv1",
+      "software_version_or_commit": "tabicl==2.1.0",
+      "code_license": "BSD-3-Clause (core TabICL code)",
+      "code_source": "https://pypi.org/pypi/tabicl/2.1.0/json",
+      "checkpoint_license": "BSD-3-Clause",
+      "checkpoint_source": "https://huggingface.co/jingang/TabICL/raw/main/README.md",
+      "notes": "The package also contains separately attributed forecasting code; this benchmark uses tabular classification/regression."
+    },
+    {
+      "model": "TabICLv2",
+      "software_version_or_commit": "tabicl==2.1.0",
+      "code_license": "BSD-3-Clause (core TabICL code)",
+      "code_source": "https://pypi.org/pypi/tabicl/2.1.0/json",
+      "checkpoint_license": "BSD-3-Clause",
+      "checkpoint_source": "https://huggingface.co/jingang/TabICL/raw/main/README.md",
+      "notes": "The package also contains separately attributed forecasting code; this benchmark uses tabular classification/regression."
+    },
+    {
+      "model": "TabDPT1.1",
+      "software_version_or_commit": "tabdpt==1.1.13",
+      "code_license": "Apache-2.0",
+      "code_source": "https://pypi.org/pypi/tabdpt/1.1.13/json",
+      "checkpoint_license": "Apache-2.0",
+      "checkpoint_source": "https://huggingface.co/Layer6/TabDPT/raw/main/README.md",
+      "notes": ""
+    },
+    {
+      "model": "TabDPT1.3",
+      "software_version_or_commit": "1.3.1 / 93670551adba28b186354fab9a1584c56c34aa76",
+      "code_license": "Apache-2.0",
+      "code_source": "https://raw.githubusercontent.com/layer6ai-labs/TabDPT-inference/93670551adba28b186354fab9a1584c56c34aa76/LICENSE",
+      "checkpoint_license": "Apache-2.0",
+      "checkpoint_source": "https://huggingface.co/Layer6/TabDPT/raw/main/README.md",
+      "notes": ""
+    },
+    {
+      "model": "Causilo",
+      "software_version_or_commit": "1.0.3 / 4d26d497de28734db52c6bfc2ea949c12cc17308",
+      "code_license": "Apache-2.0",
+      "code_source": "https://raw.githubusercontent.com/nums-ai/causilo/4d26d497de28734db52c6bfc2ea949c12cc17308/LICENSE",
+      "checkpoint_license": "Causilo License v1.0",
+      "checkpoint_source": "https://huggingface.co/nums-ai/causilo/raw/94f2bd91db0737d4da59f347910662905ecb5a09/LICENSE",
+      "notes": "Weights license permits non-commercial research under its conditions; commercial/production and hosted service uses require separate licensing."
+    },
+    {
+      "model": "LimiX-2",
+      "software_version_or_commit": "516bf396333feb3198cf7aff8a6c10421f218e24",
+      "code_license": "Stable AI Technology Co., Ltd. License v1.0",
+      "code_source": "https://raw.githubusercontent.com/limix-ldm-ai/LimiX/516bf396333feb3198cf7aff8a6c10421f218e24/LICENSE.txt",
+      "checkpoint_license": "Stable AI Technology Co., Ltd. License v1.0",
+      "checkpoint_source": "https://huggingface.co/stable-ai/LimiX-2/raw/main/LICENSE",
+      "notes": "Apache-derived custom license with additional attribution/model-naming provisions. Bundled configuration license: evaluation/adapters/configs/LIMIX_LICENSE.txt."
+    },
+    {
+      "model": "TabFM",
+      "software_version_or_commit": "1.0.1 / fbb665569425fd2f490c6576b3af967876fe11ff",
+      "code_license": "Apache-2.0",
+      "code_source": "https://raw.githubusercontent.com/google-research/tabfm/fbb665569425fd2f490c6576b3af967876fe11ff/LICENSE",
+      "checkpoint_license": "TabFM Non-Commercial License v1.0",
+      "checkpoint_source": "https://huggingface.co/google/tabfm-1.0.0-pytorch/raw/main/LICENSE",
+      "notes": ""
+    },
+    {
+      "model": "RealMLP / RealMLP-HPO",
+      "software_version_or_commit": "pytabkit==1.7.3",
+      "code_license": "Apache-2.0",
+      "code_source": "https://pypi.org/pypi/pytabkit/1.7.3/json",
+      "checkpoint_license": "Not applicable (trained per split)",
+      "checkpoint_source": null,
+      "notes": ""
+    },
+    {
+      "model": "XGBoost / XGBoost-HPO",
+      "software_version_or_commit": "xgboost==3.2.0",
+      "code_license": "Apache-2.0",
+      "code_source": "https://pypi.org/pypi/xgboost/3.2.0/json",
+      "checkpoint_license": "Not applicable (trained per split)",
+      "checkpoint_source": null,
+      "notes": ""
+    },
+    {
+      "model": "BART",
+      "software_version_or_commit": "bartz>=0.12,<0.13 (checked 0.12.0)",
+      "code_license": "MIT",
+      "code_source": "https://pypi.org/pypi/bartz/0.12.0/json",
+      "checkpoint_license": "Not applicable (trained per split)",
+      "checkpoint_source": null,
+      "notes": ""
+    }
+  ],
+  "project_license": {
+    "name": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "scope": "Original project materials, excluding third-party assets and material otherwise noted."
+  }
+}

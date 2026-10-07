@@ -136,3 +136,7 @@ python -m paper_analysis.conformal --input outputs/conformal/scalars.jsonl.gz \
 Prepare one input per dataset, seed and base model; for BART, omit `--n-estimators`. Use the explicit method list above: `-standard` selects signed CQR scores, and `Vanilla` provides the paired uncorrected intervals. PCP uses the [official implementation](conformal/_vendor/pcp/README.md).
 
 The analysis commands expect the full paper panel: 81 datasets, five seeds and eight base models. They report missing configurations, use a common valid panel, and compute dataset-equal summaries with paired bootstrap intervals. For smaller runs, use `python -m conformal summarize --input outputs/conformal/run/regression/metrics --output outputs/conformal/summary`. Run any command with `--help` for all options.
+
+## License information
+
+Original project materials are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). See the [model and software licenses](licenses/models.md) and [dataset licenses](licenses/datasets.md) for upstream terms and sources.
